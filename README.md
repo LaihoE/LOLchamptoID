@@ -2,8 +2,8 @@
 
 Champions and IDs from patch 11.3
 
-**ChampToId.json **Champ -> ID**
+ChampToId.json Champ -> ID
 
-**IdToChamp.json **ID -> Champ**
+IdToChamp.json ID -> Champ
 
-**Championid.csv** Just a csv
+Championid.csv Just a csv
